@@ -2456,12 +2456,6 @@
     </url>
   
     <url>
-      <loc>https://amarile.netlify.app/promocao-mes-de-junho2</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://amarile.netlify.app/meninos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2643,6 +2637,12 @@
   
     <url>
       <loc>https://amarile.netlify.app/promocao-mes-de-junho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/promocao-mes-de-junho2</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
