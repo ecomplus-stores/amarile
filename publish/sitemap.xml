@@ -2456,6 +2456,90 @@
     </url>
   
     <url>
+      <loc>https://amarile.netlify.app/promocao-mes-de-junho2</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/vicevicky</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/lilimoon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/leitedecoco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/boneco-de-neve</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/johnnyfox</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/lucboo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/vicjohnny</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/kukie</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/infanti</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/cauaeviki</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/outros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/juli-adur</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://amarile.netlify.app/griffekel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://amarile.netlify.app/meninos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2492,12 +2576,6 @@
     </url>
   
     <url>
-      <loc>https://amarile.netlify.app/infanti</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://amarile.netlify.app/jhonny-fox</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2505,24 +2583,6 @@
   
     <url>
       <loc>https://amarile.netlify.app/jhonny-fox-c827</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/kukie</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/lilimoon</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/lucboo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2600,12 +2660,6 @@
     </url>
   
     <url>
-      <loc>https://amarile.netlify.app/boneco-de-neve</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://amarile.netlify.app/leite-de-coco-c636</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2637,60 +2691,6 @@
   
     <url>
       <loc>https://amarile.netlify.app/promocao-mes-de-junho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/promocao-mes-de-junho2</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/vicevicky</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/leitedecoco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/johnnyfox</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/vicjohnny</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/cauaeviki</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/outros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/juli-adur</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://amarile.netlify.app/griffekel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2732,13 +2732,13 @@
     </url>
   
     <url>
-      <loc>https://amarile.netlify.app/pages/termos</loc>
+      <loc>https://amarile.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://amarile.netlify.app/pages/trocas</loc>
+      <loc>https://amarile.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
